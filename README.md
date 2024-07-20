@@ -15,4 +15,3 @@ I'm a Computer Science major at Cornell University looking to put what I learn i
 ---
 [![](https://visitcount.itsvg.in/api?id=fiifieb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
